@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 
 #total number of initial single stars: 969, binaries: 322
 
+
+              ### CHI METTE I PERCORSI ASSOLUTI DEVE MORIRE IN GALERA ###
 sin0=pd.read_csv(r'/Users/irmaberveglieri/Desktop/data/D1.6_Z0 copia.002/M1000_D1.6_Z0.002/single.40_0'
                 ,header=None, delim_whitespace=True,skiprows=1)
 binn0=pd.read_csv(r'/Users/irmaberveglieri/Desktop/data/D1.6_Z0 copia.002/M1000_D1.6_Z0.002/binary.40_0'
